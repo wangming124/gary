@@ -1,2 +1,6 @@
-This is the test project for repository.
-i will use this file to test commit and push.
+I changed my file completely. 
+And then i will commit it to master branch(in this case , it is main branch).
+
+Firstly , i should copy this file to gary holder.
+Second, i should commit and then push to main branch.
+thanks.
